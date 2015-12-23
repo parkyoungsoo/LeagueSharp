@@ -15,6 +15,7 @@
     using LeagueSharp.SDK.Core.Utils;
     using LeagueSharp.SDK.Core.Wrappers;
     using LeagueSharp.SDK.Core.Wrappers.Damages;
+    using LeagueSharp.SDK.Core.Wrappers.TargetSelector;
 
     using SharpDX;
 
