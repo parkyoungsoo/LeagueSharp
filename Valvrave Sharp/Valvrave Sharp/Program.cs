@@ -15,6 +15,7 @@
     using LeagueSharp.SDK.Core.UI.IMenu.Skins;
     using LeagueSharp.SDK.Core.UI.IMenu.Skins.Colored;
     using LeagueSharp.SDK.Core.Wrappers;
+    using LeagueSharp.SDK.Core.Wrappers.TargetSelector;
 
     using Valvrave_Sharp.Core;
     using Valvrave_Sharp.Plugin;
